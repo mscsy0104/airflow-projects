@@ -1,0 +1,7 @@
+{
+  "python.envFile": "${workspaceFolder}/.env",
+  "terminal.integrated.env.osx": {
+    "AIRFLOW_HOME": "${workspaceFolder}/airflow"
+  }
+}
+
